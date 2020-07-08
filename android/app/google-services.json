@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "475086377123",
+    "firebase_url": "https://despesaspessoais-d9fe9.firebaseio.com",
+    "project_id": "despesaspessoais-d9fe9",
+    "storage_bucket": "despesaspessoais-d9fe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475086377123:android:ebe73d6f4308798be5af16",
+        "android_client_info": {
+          "package_name": "com.exmple.DespesasPessoais"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475086377123-1gqdg52lo2imcevlkr1rom67mcjblgjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWSS1EbcWYTla0IneBPxw68MV-JsbKoj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475086377123-1gqdg52lo2imcevlkr1rom67mcjblgjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
